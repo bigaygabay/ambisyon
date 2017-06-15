@@ -36,9 +36,9 @@ demo = {
         /* ----------==========     Daily Sales Chart initialization For Documentation    ==========---------- */
 
         dataDailySalesChart = {
-            labels: ['M', 'T', 'W', 'T', 'F', 'S', 'S'],
+            labels: ['Toiletries', 'Water', 'Blankets', 'Clothes', 'Notebooks', 'Canned Goods', 'Rice'],
             series: [
-                [12, 17, 7, 17, 23, 18, 38]
+                [25, 28, 5, 10, 7, 30, 38]
             ]
         };
 
@@ -61,9 +61,9 @@ demo = {
         /* ----------==========     Daily Sales Chart initialization    ==========---------- */
 
         dataDailySalesChart = {
-            labels: ['M', 'T', 'W', 'T', 'F', 'S', 'S'],
+            labels: ['Toiletries', 'Water', 'Blankets', 'Clothes', 'Notebooks', 'Canned Goods', 'Rice'],
             series: [
-                [12, 17, 7, 17, 23, 18, 38]
+                [25, 28, 5, 10, 7, 30, 38]
             ]
         };
 
